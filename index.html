@@ -64,7 +64,27 @@
         .overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.7); display: none; align-items: center; justify-content: center; z-index: 100; }
         .overlay.show { display: flex; }
         .celebrate-card { background: white; padding: 30px; border-radius: 20px; text-align: center; max-width: 80%; }
-        @keyframes fall { 0% { transform: translateY(-50px) rotate(0); } 100% { transform: translateY(600px) rotate(360deg); } }
+        .confetti {
+            position: absolute;
+            top: -20px;
+            left: 0;
+            right: 0;
+            height: 0;
+            pointer-events: none;
+        }
+        .confetti span {
+            position: absolute;
+            width: 10px;
+            height: 16px;
+            opacity: 0.9;
+            transform: translateY(-40px) rotate(0deg);
+            animation: fall 1.6s linear infinite;
+            border-radius: 2px;
+        }
+        @keyframes fall {
+            0%   { transform: translateY(-60px) rotate(0deg); opacity: 0.95; }
+            100% { transform: translateY(520px) rotate(360deg); opacity: 0.2; }
+        }
     </style>
 </head>
 <body>
@@ -104,11 +124,12 @@
     </div>
 
     <div class="overlay" id="overlay">
+        <div class="confetti" id="confetti"></div>
         <div class="celebrate-card">
             <h2>🎉 <span class="score"></span>점 돌파! 🎉</h2>
             <p>대단해요! 계속해서 실력을 쌓아보세요.</p>
-            <button class="unit-btn active" id="close-overlay" style="padding:10px 20px;">계속하기</button>
-        </div>
+        <button class="unit-btn active" id="close-overlay" style="padding:10px 20px;">계속하기</button>
+      </div>
     </div>
 
     <script>
@@ -142,6 +163,21 @@
 
         function showCelebration() {
             document.getElementById("overlay").classList.add("show");
+            const confetti = document.getElementById("confetti");
+            if (!confetti.dataset.built) {
+                const pieces = 100;
+                for (let i = 0; i < pieces; i++) {
+                const s = document.createElement("span");
+                    s.style.left = Math.floor(Math.random() * 100) + "%";
+                    s.style.animationDelay = (Math.random() * 0.8).toFixed(2) + "s";
+                    s.style.animationDuration = (1.2 + Math.random() * 1.2).toFixed(2) + "s";
+                    s.style.background = "hsl(" + Math.floor(Math.random()*360) + " 90% 60%)";
+                    confetti.appendChild(s);
+                }
+                confetti.dataset.built = "1";
+            }
+      
+            cheerAudio.currentTime = 0
             cheerAudio.play().catch(() => console.log("오디오 재생 실패"));
         }
 
