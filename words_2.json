@@ -1,0 +1,482 @@
+[
+  {
+    "korean": "눈이 침침하다",
+    "vietnamese": "mắt bị mờ",
+    "unit": 2
+  },
+  {
+    "korean": "목이 뻣뻣하다",
+    "vietnamese": "cổ bị cứng",
+    "unit": 2
+  },
+  {
+    "korean": "목이 따끔거리다",
+    "vietnamese": "rát cổ",
+    "unit": 2
+  },
+  {
+    "korean": "속이 거북하다",
+    "vietnamese": "đầy bụng",
+    "unit": 2
+  },
+  {
+    "korean": "가슴이 답답하다",
+    "vietnamese": "tức ngực",
+    "unit": 2
+  },
+  {
+    "korean": "붓다",
+    "vietnamese": "sưng, phồng",
+    "unit": 2
+  },
+  {
+    "korean": "쓰리다",
+    "vietnamese": "cồn cào, đau nhói (bụng)",
+    "unit": 2
+  },
+  {
+    "korean": "막히다",
+    "vietnamese": "tắc, bị chặn",
+    "unit": 2
+  },
+  {
+    "korean": "가렵다",
+    "vietnamese": "ngứa",
+    "unit": 2
+  },
+  {
+    "korean": "저리다",
+    "vietnamese": "tê, tê buốt",
+    "unit": 2
+  },
+  {
+    "korean": "과로",
+    "vietnamese": "sự làm việc quá mức",
+    "unit": 2
+  },
+  {
+    "korean": "과식",
+    "vietnamese": "việc ăn quá nhiều",
+    "unit": 2
+  },
+  {
+    "korean": "과음",
+    "vietnamese": "việc uống quá độ",
+    "unit": 2
+  },
+  {
+    "korean": "과속",
+    "vietnamese": "việc chạy quá tốc độ",
+    "unit": 2
+  },
+  {
+    "korean": "과소비",
+    "vietnamese": "việc tiêu xài quá mức",
+    "unit": 2
+  },
+  {
+    "korean": "낙지볶음",
+    "vietnamese": "món bạch tuộc xào",
+    "unit": 2
+  },
+  {
+    "korean": "허리를 펴다",
+    "vietnamese": "duỗi, ưỡn thẳng lưng",
+    "unit": 2
+  },
+  {
+    "korean": "곱창",
+    "vietnamese": "lòng (bò, lợn)",
+    "unit": 2
+  },
+  {
+    "korean": "즐겨 입다",
+    "vietnamese": "thường mặc",
+    "unit": 2
+  },
+  {
+    "korean": "무리하다",
+    "vietnamese": "quá sức",
+    "unit": 2
+  },
+  {
+    "korean": "자꾸만",
+    "vietnamese": "cứ, liên tục",
+    "unit": 2
+  },
+  {
+    "korean": "엄살이다",
+    "vietnamese": "giả ốm",
+    "unit": 2
+  },
+  {
+    "korean": "온몸",
+    "vietnamese": "toàn bộ cơ thể, khắp người",
+    "unit": 2
+  },
+  {
+    "korean": "불규칙하다",
+    "vietnamese": "bất quy tắc, không đều",
+    "unit": 2
+  },
+  {
+    "korean": "후회하다",
+    "vietnamese": "hối hận",
+    "unit": 2
+  },
+  {
+    "korean": "툭하면",
+    "vietnamese": "hễ một tí là, hơi một tí là",
+    "unit": 2
+  },
+  {
+    "korean": "사람을 치다",
+    "vietnamese": "đánh/móc người",
+    "unit": 2
+  },
+  {
+    "korean": "질",
+    "vietnamese": "chất, chất lượng",
+    "unit": 2
+  },
+  {
+    "korean": "예방하다",
+    "vietnamese": "dự phòng, phòng ngừa",
+    "unit": 2
+  },
+  {
+    "korean": "치료하다",
+    "vietnamese": "trị liệu, điều trị",
+    "unit": 2
+  },
+  {
+    "korean": "휴가철",
+    "vietnamese": "kì nghỉ",
+    "unit": 2
+  },
+  {
+    "korean": "패키지",
+    "vietnamese": "đồ đạc, kiện đồ; gói (tour)",
+    "unit": 2
+  },
+  {
+    "korean": "고급스럽다",
+    "vietnamese": "cao cấp",
+    "unit": 2
+  },
+  {
+    "korean": "휴식",
+    "vietnamese": "sự nghỉ ngơi",
+    "unit": 2
+  },
+  {
+    "korean": "약속드리다",
+    "vietnamese": "hứa hẹn",
+    "unit": 2
+  },
+  {
+    "korean": "특식",
+    "vietnamese": "bữa ăn đặc biệt",
+    "unit": 2
+  },
+  {
+    "korean": "풀코스",
+    "vietnamese": "bữa ăn đầy đủ các món",
+    "unit": 2
+  },
+  {
+    "korean": "헬스클럽",
+    "vietnamese": "phòng tập thể hình",
+    "unit": 2
+  },
+  {
+    "korean": "최고급",
+    "vietnamese": "cao cấp nhất",
+    "unit": 2
+  },
+  {
+    "korean": "오일",
+    "vietnamese": "dầu",
+    "unit": 2
+  },
+  {
+    "korean": "마사지",
+    "vietnamese": "mát-xa",
+    "unit": 2
+  },
+  {
+    "korean": "과일 바구니",
+    "vietnamese": "giỏ hoa quả",
+    "unit": 2
+  },
+  {
+    "korean": "증정",
+    "vietnamese": "sự tặng",
+    "unit": 2
+  },
+  {
+    "korean": "명상",
+    "vietnamese": "sự thiền",
+    "unit": 2
+  },
+  {
+    "korean": "사찰",
+    "vietnamese": "chùa",
+    "unit": 2
+  },
+  {
+    "korean": "다도",
+    "vietnamese": "trà đạo",
+    "unit": 2
+  },
+  {
+    "korean": "체험",
+    "vietnamese": "sự trải nghiệm",
+    "unit": 2
+  },
+  {
+    "korean": "잡곡밥",
+    "vietnamese": "cơm ngũ cốc",
+    "unit": 2
+  },
+  {
+    "korean": "건강식",
+    "vietnamese": "đồ ăn tốt cho sức khỏe",
+    "unit": 2
+  },
+  {
+    "korean": "버섯",
+    "vietnamese": "nấm",
+    "unit": 2
+  },
+  {
+    "korean": "경고",
+    "vietnamese": "sự cảnh cáo",
+    "unit": 2
+  },
+  {
+    "korean": "지나치다",
+    "vietnamese": "quá, thái quá",
+    "unit": 2
+  },
+  {
+    "korean": "흡연하다",
+    "vietnamese": "hút thuốc",
+    "unit": 2
+  },
+  {
+    "korean": "폐암",
+    "vietnamese": "ung thư phổi",
+    "unit": 2
+  },
+  {
+    "korean": "각종",
+    "vietnamese": "nhiều loại, các loại",
+    "unit": 2
+  },
+  {
+    "korean": "질병",
+    "vietnamese": "bệnh tật",
+    "unit": 2
+  },
+  {
+    "korean": "병들다",
+    "vietnamese": "bị bệnh",
+    "unit": 2
+  },
+  {
+    "korean": "간암",
+    "vietnamese": "ung thư gan",
+    "unit": 2
+  },
+  {
+    "korean": "음주",
+    "vietnamese": "việc uống đồ có cồn",
+    "unit": 2
+  },
+  {
+    "korean": "작업",
+    "vietnamese": "công việc",
+    "unit": 2
+  },
+  {
+    "korean": "발생률",
+    "vietnamese": "tỉ lệ phát sinh",
+    "unit": 2
+  },
+  {
+    "korean": "알코올 중독",
+    "vietnamese": "nghiện rượu",
+    "unit": 2
+  },
+  {
+    "korean": "유발하다",
+    "vietnamese": "gây ra, tạo ra",
+    "unit": 2
+  },
+  {
+    "korean": "숨을 쉬다",
+    "vietnamese": "thở",
+    "unit": 2
+  },
+  {
+    "korean": "적다",
+    "vietnamese": "viết, ghi lại",
+    "unit": 2
+  },
+  {
+    "korean": "놀이 기구",
+    "vietnamese": "máy/thiết bị trò chơi",
+    "unit": 2
+  },
+  {
+    "korean": "놀이공원",
+    "vietnamese": "công viên trò chơi",
+    "unit": 2
+  },
+  {
+    "korean": "롤러코스터",
+    "vietnamese": "tàu lượn",
+    "unit": 2
+  },
+  {
+    "korean": "딱 질색이다",
+    "vietnamese": "ghét, chán ghét",
+    "unit": 2
+  },
+  {
+    "korean": "높이",
+    "vietnamese": "độ cao",
+    "unit": 2
+  },
+  {
+    "korean": "뚝 떨어지다",
+    "vietnamese": "rơi tuột xuống",
+    "unit": 2
+  },
+  {
+    "korean": "빙글빙글 돌다",
+    "vietnamese": "quay tít, quay tròn",
+    "unit": 2
+  },
+  {
+    "korean": "먼지",
+    "vietnamese": "bụi",
+    "unit": 2
+  },
+  {
+    "korean": "꽃가루가 날리다",
+    "vietnamese": "phấn hoa bay",
+    "unit": 2
+  },
+  {
+    "korean": "발목",
+    "vietnamese": "cổ chân, mắt cá chân",
+    "unit": 2
+  },
+  {
+    "korean": "삐다",
+    "vietnamese": "trẹo, trật khớp",
+    "unit": 2
+  },
+  {
+    "korean": "멍이 들다",
+    "vietnamese": "bị bầm, có vết bầm",
+    "unit": 2
+  },
+  {
+    "korean": "확인하다",
+    "vietnamese": "kiểm tra",
+    "unit": 2
+  },
+  {
+    "korean": "누르다",
+    "vietnamese": "ấn",
+    "unit": 2
+  },
+  {
+    "korean": "뼈",
+    "vietnamese": "xương",
+    "unit": 2
+  },
+  {
+    "korean": "검사하다",
+    "vietnamese": "kiểm tra, xét nghiệm",
+    "unit": 2
+  },
+  {
+    "korean": "붕대를 감다",
+    "vietnamese": "băng bó",
+    "unit": 2
+  },
+  {
+    "korean": "깁스를 하다",
+    "vietnamese": "bó bột",
+    "unit": 2
+  },
+  {
+    "korean": "한의원",
+    "vietnamese": "viện y học cổ truyền",
+    "unit": 2
+  },
+  {
+    "korean": "침을 놓다",
+    "vietnamese": "châm cứu",
+    "unit": 2
+  },
+  {
+    "korean": "얼음찜질",
+    "vietnamese": "chườm đá",
+    "unit": 2
+  },
+  {
+    "korean": "한약",
+    "vietnamese": "thuốc đông y",
+    "unit": 2
+  },
+  {
+    "korean": "민간요법",
+    "vietnamese": "liệu pháp dân gian",
+    "unit": 2
+  },
+  {
+    "korean": "생강",
+    "vietnamese": "gừng",
+    "unit": 2
+  },
+  {
+    "korean": "반죽",
+    "vietnamese": "bột nhão, việc nhào bột",
+    "unit": 2
+  },
+  {
+    "korean": "진맥을 하다",
+    "vietnamese": "bắt mạch",
+    "unit": 2
+  },
+  {
+    "korean": "맥박",
+    "vietnamese": "mạch đập",
+    "unit": 2
+  },
+  {
+    "korean": "흐르다",
+    "vietnamese": "chảy",
+    "unit": 2
+  },
+  {
+    "korean": "뜸을 뜨다",
+    "vietnamese": "giác hơi / làm cứu",
+    "unit": 2
+  },
+  {
+    "korean": "약초",
+    "vietnamese": "thảo dược",
+    "unit": 2
+  },
+  {
+    "korean": "(약을) 달이다",
+    "vietnamese": "sắc/đun thuốc",
+    "unit": 2
+  }
+]

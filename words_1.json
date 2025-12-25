@@ -1,0 +1,527 @@
+[
+  {
+    "korean": "손재주가 좋다",
+    "vietnamese": "khéo tay",
+    "unit": 1
+  },
+  {
+    "korean": "이해가 빠르다",
+    "vietnamese": "nhanh hiểu",
+    "unit": 1
+  },
+  {
+    "korean": "설득력이 있다",
+    "vietnamese": "có tính thuyết phục",
+    "unit": 1
+  },
+  {
+    "korean": "책임감이 강하다",
+    "vietnamese": "có tính trách nhiệm cao",
+    "unit": 1
+  },
+  {
+    "korean": "소질이 있다",
+    "vietnamese": "có tố chất",
+    "unit": 1
+  },
+  {
+    "korean": "적성에 맞다",
+    "vietnamese": "phù hợp với tính cách",
+    "unit": 1
+  },
+  {
+    "korean": "진로를 정하다",
+    "vietnamese": "xác định con đường nghề nhiệp",
+    "unit": 1
+  },
+  {
+    "korean": "전공을 살리다",
+    "vietnamese": "vận dụng chuyên ngành",
+    "unit": 1
+  },
+  {
+    "korean": "예술적",
+    "vietnamese": "tính nghệ thuật",
+    "unit": 1
+  },
+  {
+    "korean": "실용적",
+    "vietnamese": "tính thực tiễn",
+    "unit": 1
+  },
+  {
+    "korean": "사교적",
+    "vietnamese": "tính hòa đồng",
+    "unit": 1
+  },
+  {
+    "korean": "적극적",
+    "vietnamese": "tính tích cực",
+    "unit": 1
+  },
+  {
+    "korean": "긍정적",
+    "vietnamese": "tính tích cực",
+    "unit": 1
+  },
+  {
+    "korean": "한국학과",
+    "vietnamese": "Khoa Hàn Quốc học",
+    "unit": 1
+  },
+  {
+    "korean": "합격하다",
+    "vietnamese": "đỗ (kỳ thi)",
+    "unit": 1
+  },
+  {
+    "korean": "떨어지다",
+    "vietnamese": "trượt (kỳ thi)",
+    "unit": 1
+  },
+  {
+    "korean": "기회",
+    "vietnamese": "cơ hội",
+    "unit": 1
+  },
+  {
+    "korean": "소리를 내다",
+    "vietnamese": "phát ra âm thanh",
+    "unit": 1
+  },
+  {
+    "korean": "하루 종일",
+    "vietnamese": "suốt cả ngày",
+    "unit": 1
+  },
+  {
+    "korean": "언젠가는",
+    "vietnamese": "một ngày nào đó",
+    "unit": 1
+  },
+  {
+    "korean": "성공하다",
+    "vietnamese": "thành công",
+    "unit": 1
+  },
+  {
+    "korean": "나중에는",
+    "vietnamese": "sau này",
+    "unit": 1
+  },
+  {
+    "korean": "서너 번",
+    "vietnamese": "ba bốn lần",
+    "unit": 1
+  },
+  {
+    "korean": "밥을 사다",
+    "vietnamese": "mua cơm (đãi ăn)",
+    "unit": 1
+  },
+  {
+    "korean": "교수",
+    "vietnamese": "giáo sư",
+    "unit": 1
+  },
+  {
+    "korean": "붙다",
+    "vietnamese": "đỗ (kỳ thi)",
+    "unit": 1
+  },
+  {
+    "korean": "결국",
+    "vietnamese": "cuối cùng",
+    "unit": 1
+  },
+  {
+    "korean": "해내다",
+    "vietnamese": "làm được, đạt được",
+    "unit": 1
+  },
+  {
+    "korean": "알아듣다",
+    "vietnamese": "nghe hiểu",
+    "unit": 1
+  },
+  {
+    "korean": "적응하다",
+    "vietnamese": "thích ứng",
+    "unit": 1
+  },
+  {
+    "korean": "금방",
+    "vietnamese": "sớm, ngay",
+    "unit": 1
+  },
+  {
+    "korean": "인턴사원",
+    "vietnamese": "nhân viên thực tập",
+    "unit": 1
+  },
+  {
+    "korean": "뽑히다",
+    "vietnamese": "được chọn",
+    "unit": 1
+  },
+  {
+    "korean": "올해",
+    "vietnamese": "năm nay",
+    "unit": 1
+  },
+  {
+    "korean": "오디션",
+    "vietnamese": "buổi thử giọng",
+    "unit": 1
+  },
+  {
+    "korean": "반대하다",
+    "vietnamese": "phản đối",
+    "unit": 1
+  },
+  {
+    "korean": "설득하다",
+    "vietnamese": "thuyết phục",
+    "unit": 1
+  },
+  {
+    "korean": "꿈을 이루다",
+    "vietnamese": "đạt được ước mơ",
+    "unit": 1
+  },
+  {
+    "korean": "마음이 맞다",
+    "vietnamese": "hài lòng, hợp ý",
+    "unit": 1
+  },
+  {
+    "korean": "특징",
+    "vietnamese": "đặc trưng",
+    "unit": 1
+  },
+  {
+    "korean": "반찬",
+    "vietnamese": "món ăn kèm",
+    "unit": 1
+  },
+  {
+    "korean": "요리법",
+    "vietnamese": "cách chế biến, cách nấu",
+    "unit": 1
+  },
+  {
+    "korean": "스스로",
+    "vietnamese": "tự mình",
+    "unit": 1
+  },
+  {
+    "korean": "해결하다",
+    "vietnamese": "giải quyết",
+    "unit": 1
+  },
+  {
+    "korean": "장점",
+    "vietnamese": "điểm mạnh",
+    "unit": 1
+  },
+  {
+    "korean": "놀랍다",
+    "vietnamese": "ngạc nhiên",
+    "unit": 1
+  },
+  {
+    "korean": "속도",
+    "vietnamese": "tốc độ",
+    "unit": 1
+  },
+  {
+    "korean": "차이점",
+    "vietnamese": "điểm khác biệt",
+    "unit": 1
+  },
+  {
+    "korean": "젓가락",
+    "vietnamese": "đũa",
+    "unit": 1
+  },
+  {
+    "korean": "다른 점",
+    "vietnamese": "điểm khác",
+    "unit": 1
+  },
+  {
+    "korean": "조언하다",
+    "vietnamese": "khuyên",
+    "unit": 1
+  },
+  {
+    "korean": "쉽게",
+    "vietnamese": "một cách dễ dàng",
+    "unit": 1
+  },
+  {
+    "korean": "문제가 풀리다",
+    "vietnamese": "vấn đề được giải quyết",
+    "unit": 1
+  },
+  {
+    "korean": "인사",
+    "vietnamese": "sự chào hỏi",
+    "unit": 1
+  },
+  {
+    "korean": "따라 하다",
+    "vietnamese": "làm theo",
+    "unit": 1
+  },
+  {
+    "korean": "음감",
+    "vietnamese": "sự cảm âm",
+    "unit": 1
+  },
+  {
+    "korean": "따르다",
+    "vietnamese": "theo",
+    "unit": 1
+  },
+  {
+    "korean": "소리",
+    "vietnamese": "âm thanh",
+    "unit": 1
+  },
+  {
+    "korean": "악보",
+    "vietnamese": "nhạc phổ, bản nhạc",
+    "unit": 1
+  },
+  {
+    "korean": "점점",
+    "vietnamese": "dần dần",
+    "unit": 1
+  },
+  {
+    "korean": "매력에 빠지다",
+    "vietnamese": "bị cuốn hút",
+    "unit": 1
+  },
+  {
+    "korean": "분야",
+    "vietnamese": "lĩnh vực",
+    "unit": 1
+  },
+  {
+    "korean": "들어주다",
+    "vietnamese": "nghe, nhận lời",
+    "unit": 1
+  },
+  {
+    "korean": "상담하다",
+    "vietnamese": "tư vấn",
+    "unit": 1
+  },
+  {
+    "korean": "글을 쓰다",
+    "vietnamese": "viết bài",
+    "unit": 1
+  },
+  {
+    "korean": "목소리",
+    "vietnamese": "giọng nói",
+    "unit": 1
+  },
+  {
+    "korean": "패션 감각",
+    "vietnamese": "cảm nhận về thời trang",
+    "unit": 1
+  },
+  {
+    "korean": "리더십",
+    "vietnamese": "khả năng lãnh đạo",
+    "unit": 1
+  },
+  {
+    "korean": "말을 잘하다",
+    "vietnamese": "nói tốt, khéo nói",
+    "unit": 1
+  },
+  {
+    "korean": "선택하다",
+    "vietnamese": "lựa chọn",
+    "unit": 1
+  },
+  {
+    "korean": "예전",
+    "vietnamese": "trước đây",
+    "unit": 1
+  },
+  {
+    "korean": "방송",
+    "vietnamese": "việc phát sóng, chương trình phát thanh/truyền hình",
+    "unit": 1
+  },
+  {
+    "korean": "연극영화과",
+    "vietnamese": "Khoa Kịch và Điện Ảnh",
+    "unit": 1
+  },
+  {
+    "korean": "프로그램",
+    "vietnamese": "chương trình",
+    "unit": 1
+  },
+  {
+    "korean": "신문방송학과",
+    "vietnamese": "Khoa Báo Chí và Truyền hình",
+    "unit": 1
+  },
+  {
+    "korean": "진학하다",
+    "vietnamese": "học lên (bậc học cao hơn)",
+    "unit": 1
+  },
+  {
+    "korean": "관련되다",
+    "vietnamese": "có liên quan",
+    "unit": 1
+  },
+  {
+    "korean": "학점",
+    "vietnamese": "tín chỉ",
+    "unit": 1
+  },
+  {
+    "korean": "큰일이다",
+    "vietnamese": "có việc lớn, có biến cố",
+    "unit": 1
+  },
+  {
+    "korean": "집중하다",
+    "vietnamese": "tập trung",
+    "unit": 1
+  },
+  {
+    "korean": "그만두다",
+    "vietnamese": "từ bỏ",
+    "unit": 1
+  },
+  {
+    "korean": "도움",
+    "vietnamese": "sự giúp đỡ",
+    "unit": 1
+  },
+  {
+    "korean": "늘리다",
+    "vietnamese": "tăng",
+    "unit": 1
+  },
+  {
+    "korean": "돈을 내다",
+    "vietnamese": "trả tiền",
+    "unit": 1
+  },
+  {
+    "korean": "거절당하다",
+    "vietnamese": "bị từ chối",
+    "unit": 1
+  },
+  {
+    "korean": "두렵다",
+    "vietnamese": "lo sợ",
+    "unit": 1
+  },
+  {
+    "korean": "전공하다",
+    "vietnamese": "học chuyên ngành về",
+    "unit": 1
+  },
+  {
+    "korean": "앞두다",
+    "vietnamese": "trước mắt, đứng trước",
+    "unit": 1
+  },
+  {
+    "korean": "보람을 느끼다",
+    "vietnamese": "cảm nhận thấy ý nghĩa",
+    "unit": 1
+  },
+  {
+    "korean": "기획하다",
+    "vietnamese": "lên kế hoạch",
+    "unit": 1
+  },
+  {
+    "korean": "여행객",
+    "vietnamese": "khách du lịch",
+    "unit": 1
+  },
+  {
+    "korean": "여행 가이드",
+    "vietnamese": "hướng dẫn viên du lịch",
+    "unit": 1
+  },
+  {
+    "korean": "서비스업",
+    "vietnamese": "ngành dịch vụ",
+    "unit": 1
+  },
+  {
+    "korean": "업무",
+    "vietnamese": "công việc, nghiệp vụ",
+    "unit": 1
+  },
+  {
+    "korean": "능력",
+    "vietnamese": "năng lực",
+    "unit": 1
+  },
+  {
+    "korean": "항공사",
+    "vietnamese": "hãng hàng không",
+    "unit": 1
+  },
+  {
+    "korean": "근무하다",
+    "vietnamese": "làm việc",
+    "unit": 1
+  },
+  {
+    "korean": "승객",
+    "vietnamese": "hành khách",
+    "unit": 1
+  },
+  {
+    "korean": "승무원",
+    "vietnamese": "tiếp viên",
+    "unit": 1
+  },
+  {
+    "korean": "정치학",
+    "vietnamese": "Chính trị học",
+    "unit": 1
+  },
+  {
+    "korean": "수학 교육",
+    "vietnamese": "Giáo dục toán, giảng dạy toán",
+    "unit": 1
+  },
+  {
+    "korean": "화학",
+    "vietnamese": "Hóa học",
+    "unit": 1
+  },
+  {
+    "korean": "식품 영양학",
+    "vietnamese": "Dinh dưỡng và Thực phẩm",
+    "unit": 1
+  },
+  {
+    "korean": "컴퓨터 공학",
+    "vietnamese": "Khoa học máy tính",
+    "unit": 1
+  },
+  {
+    "korean": "동양화",
+    "vietnamese": "Hội họa phương Đông",
+    "unit": 1
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "korean": "득점을 하다",
+    "vietnamese": "ghi điểm",
+    "unit": 3
+  },
+  {
+    "korean": "승부가 나다",
+    "vietnamese": "phân thắng bại",
+    "unit": 3
+  },
+  {
+    "korean": "승부욕이 강하다",
+    "vietnamese": "tham vọng chiến thắng",
+    "unit": 3
+  },
+  {
+    "korean": "연장전을 하다",
+    "vietnamese": "thi đấu hiệp phụ",
+    "unit": 3
+  },
+  {
+    "korean": "결승전에 진출하다",
+    "vietnamese": "tiến vào vòng chung kết",
+    "unit": 3
+  },
+  {
+    "korean": "막상막하이다",
+    "vietnamese": "ngang tài ngang sức",
+    "unit": 3
+  },
+  {
+    "korean": "정정당당하다",
+    "vietnamese": "đường đường chính chính",
+    "unit": 3
+  },
+  {
+    "korean": "자신만만하다",
+    "vietnamese": "đầy tự tin",
+    "unit": 3
+  },
+  {
+    "korean": "아슬아슬하다",
+    "vietnamese": "sát nút, nghẹt thở",
+    "unit": 3
+  },
+  {
+    "korean": "흥미진진하다",
+    "vietnamese": "đầy hứng thú",
+    "unit": 3
+  },
+  {
+    "korean": "규칙을 지키다",
+    "vietnamese": "tuân thủ luật",
+    "unit": 3
+  },
+  {
+    "korean": "반칙을 하다",
+    "vietnamese": "chơi gian, phạm luật",
+    "unit": 3
+  },
+  {
+    "korean": "경고를 받다",
+    "vietnamese": "nhận cảnh cáo",
+    "unit": 3
+  },
+  {
+    "korean": "퇴장을 당하다",
+    "vietnamese": "bị đuổi khỏi sân/cuộc chơi",
+    "unit": 3
+  },
+  {
+    "korean": "얇다",
+    "vietnamese": "mỏng",
+    "unit": 3
+  },
+  {
+    "korean": "소용없다",
+    "vietnamese": "vô ích, vô dụng",
+    "unit": 3
+  },
+  {
+    "korean": "실력 차이가 나다",
+    "vietnamese": "có sự khác biệt về năng lực",
+    "unit": 3
+  },
+  {
+    "korean": "상대편",
+    "vietnamese": "phía đối phương",
+    "unit": 3
+  },
+  {
+    "korean": "전반전",
+    "vietnamese": "hiệp một",
+    "unit": 3
+  },
+  {
+    "korean": "후반전",
+    "vietnamese": "hiệp hai",
+    "unit": 3
+  },
+  {
+    "korean": "골을 넣다",
+    "vietnamese": "ghi bàn, đưa bóng vào gôn",
+    "unit": 3
+  },
+  {
+    "korean": "아쉽다",
+    "vietnamese": "tiếc nuối",
+    "unit": 3
+  },
+  {
+    "korean": "아깝다",
+    "vietnamese": "đáng tiếc",
+    "unit": 3
+  },
+  {
+    "korean": "역전패하다",
+    "vietnamese": "thua ngược dòng",
+    "unit": 3
+  },
+  {
+    "korean": "체력이 떨어지다",
+    "vietnamese": "thể lực giảm sút",
+    "unit": 3
+  },
+  {
+    "korean": "비기다",
+    "vietnamese": "hoà, tỉ số bằng nhau",
+    "unit": 3
+  },
+  {
+    "korean": "부상을 당하다",
+    "vietnamese": "bị chấn thương",
+    "unit": 3
+  },
+  {
+    "korean": "핸드볼",
+    "vietnamese": "bóng ném",
+    "unit": 3
+  },
+  {
+    "korean": "세트",
+    "vietnamese": "ván, hiệp, set",
+    "unit": 3
+  },
+  {
+    "korean": "지치다",
+    "vietnamese": "kiệt sức, mệt rã rời",
+    "unit": 3
+  },
+  {
+    "korean": "심장",
+    "vietnamese": "tim",
+    "unit": 3
+  },
+  {
+    "korean": "별명",
+    "vietnamese": "biệt danh",
+    "unit": 3
+  },
+  {
+    "korean": "단짝 친구",
+    "vietnamese": "bạn thân, bạn tâm giao",
+    "unit": 3
+  },
+  {
+    "korean": "천사",
+    "vietnamese": "thiên thần",
+    "unit": 3
+  },
+  {
+    "korean": "평가를 받다",
+    "vietnamese": "nhận đánh giá",
+    "unit": 3
+  },
+  {
+    "korean": "서울월드컵경기장",
+    "vietnamese": "Sân vận động World Cup ở Seoul",
+    "unit": 3
+  },
+  {
+    "korean": "축구장",
+    "vietnamese": "sân bóng đá",
+    "unit": 3
+  },
+  {
+    "korean": "관람하다",
+    "vietnamese": "xem, quan sát",
+    "unit": 3
+  },
+  {
+    "korean": "내",
+    "vietnamese": "bên trong",
+    "unit": 3
+  },
+  {
+    "korean": "잠실야구장",
+    "vietnamese": "Sân vận động bóng chày Jamsil",
+    "unit": 3
+  },
+  {
+    "korean": "응원하다",
+    "vietnamese": "cổ vũ",
+    "unit": 3
+  },
+  {
+    "korean": "함성",
+    "vietnamese": "tiếng hô vang, sự đồng thanh cổ vũ",
+    "unit": 3
+  },
+  {
+    "korean": "가득하다",
+    "vietnamese": "đầy, tràn đầy",
+    "unit": 3
+  },
+  {
+    "korean": "은메달",
+    "vietnamese": "huy chương bạc",
+    "unit": 3
+  },
+  {
+    "korean": "시상대",
+    "vietnamese": "bục trao giải",
+    "unit": 3
+  },
+  {
+    "korean": "일 등을 놓치다",
+    "vietnamese": "tuột mất vị trí số một",
+    "unit": 3
+  },
+  {
+    "korean": "억울하다",
+    "vietnamese": "uất ức, oan ức",
+    "unit": 3
+  },
+  {
+    "korean": "순간",
+    "vietnamese": "giây phút, khoảnh khắc",
+    "unit": 3
+  },
+  {
+    "korean": "훌륭하다",
+    "vietnamese": "xuất sắc, tuyệt vời",
+    "unit": 3
+  },
+  {
+    "korean": "최선을 다하다",
+    "vietnamese": "cố gắng hết sức",
+    "unit": 3
+  },
+  {
+    "korean": "결과를 받아들이다",
+    "vietnamese": "chấp nhận kết quả",
+    "unit": 3
+  },
+  {
+    "korean": "바람직하다",
+    "vietnamese": "đáng quý, đáng noi theo",
+    "unit": 3
+  },
+  {
+    "korean": "스포츠 정신",
+    "vietnamese": "tinh thần thể thao",
+    "unit": 3
+  },
+  {
+    "korean": "과정",
+    "vietnamese": "quá trình",
+    "unit": 3
+  },
+  {
+    "korean": "분명하다",
+    "vietnamese": "rõ ràng, chắc chắn",
+    "unit": 3
+  },
+  {
+    "korean": "체격",
+    "vietnamese": "vóc dáng, thể hình",
+    "unit": 3
+  },
+  {
+    "korean": "길고 짧은 건 대봐야 안다",
+    "vietnamese": "phải đo thì mới biết dài ngắn (làm mới biết kết quả)",
+    "unit": 3
+  },
+  {
+    "korean": "유리하다",
+    "vietnamese": "có lợi, có lợi thế",
+    "unit": 3
+  },
+  {
+    "korean": "기술을 쓰다",
+    "vietnamese": "sử dụng kỹ thuật",
+    "unit": 3
+  },
+  {
+    "korean": "버티다",
+    "vietnamese": "chịu đựng, trụ vững",
+    "unit": 3
+  },
+  {
+    "korean": "균형을 잃다",
+    "vietnamese": "mất cân bằng",
+    "unit": 3
+  },
+  {
+    "korean": "당연히",
+    "vietnamese": "đương nhiên",
+    "unit": 3
+  },
+  {
+    "korean": "팔씨름",
+    "vietnamese": "trò vật tay",
+    "unit": 3
+  },
+  {
+    "korean": "의미하다",
+    "vietnamese": "có nghĩa, mang nghĩa",
+    "unit": 3
+  },
+  {
+    "korean": "합치다",
+    "vietnamese": "hợp lại, gộp lại",
+    "unit": 3
+  },
+  {
+    "korean": "즉",
+    "vietnamese": "tức là",
+    "unit": 3
+  },
+  {
+    "korean": "뜻",
+    "vietnamese": "ý nghĩa",
+    "unit": 3
+  },
+  {
+    "korean": "인원",
+    "vietnamese": "số người, thành viên",
+    "unit": 3
+  },
+  {
+    "korean": "각각",
+    "vietnamese": "mỗi, từng",
+    "unit": 3
+  },
+  {
+    "korean": "발로 차다",
+    "vietnamese": "đá bằng chân",
+    "unit": 3
+  },
+  {
+    "korean": "골문",
+    "vietnamese": "khung thành, cổng gôn",
+    "unit": 3
+  },
+  {
+    "korean": "넘겨주다",
+    "vietnamese": "giao cho, trao cho",
+    "unit": 3
+  },
+  {
+    "korean": "무승부",
+    "vietnamese": "hoà, bất phân thắng bại",
+    "unit": 3
+  },
+  {
+    "korean": "진행",
+    "vietnamese": "sự tiến hành",
+    "unit": 3
+  },
+  {
+    "korean": "종목",
+    "vietnamese": "hạng mục, nội dung thi đấu",
+    "unit": 3
+  },
+  {
+    "korean": "구성",
+    "vietnamese": "sự cấu thành, tổ chức",
+    "unit": 3
+  },
+  {
+    "korean": "상품",
+    "vietnamese": "sản phẩm, hàng hóa, giải thưởng",
+    "unit": 3
+  },
+  {
+    "korean": "모래판",
+    "vietnamese": "sàn cát (đấu vật)",
+    "unit": 3
+  },
+  {
+    "korean": "깔리다",
+    "vietnamese": "được trải ra, được lót",
+    "unit": 3
+  },
+  {
+    "korean": "샅바",
+    "vietnamese": "khố (dây lưng đấu vật)",
+    "unit": 3
+  },
+  {
+    "korean": "손잡이",
+    "vietnamese": "tay cầm, tay nắm",
+    "unit": 3
+  },
+  {
+    "korean": "끈",
+    "vietnamese": "dây, quai, dây buộc",
+    "unit": 3
+  },
+  {
+    "korean": "쓰러뜨리다",
+    "vietnamese": "quật ngã, làm ngã",
+    "unit": 3
+  },
+  {
+    "korean": "닿다",
+    "vietnamese": "chạm, chạm đến",
+    "unit": 3
+  },
+  {
+    "korean": "황소",
+    "vietnamese": "con bò, bò đực",
+    "unit": 3
+  },
+  {
+    "korean": "규모",
+    "vietnamese": "quy mô, kích cỡ",
+    "unit": 3
+  }
+]
