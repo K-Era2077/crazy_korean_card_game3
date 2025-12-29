@@ -282,6 +282,7 @@
         Promise.all(jsonFiles.map(f => fetch(f).then(r => r.json())))
             .then(data => {
                 WORDS_ALL = data.flat();
+                document.getElementById("wordCount").textContent = WORDS_ALL.length;
                 applyFilter();
             })
             .catch(err => {
